@@ -1,1 +1,2 @@
 Text for TestA file
+Change from branch1
