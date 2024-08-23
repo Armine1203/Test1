@@ -1,2 +1,6 @@
 Text for TestA file
+<<<<<<< HEAD
 Change from branch1
+=======
+Change from branch2
+>>>>>>> branch_2
